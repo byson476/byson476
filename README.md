@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="https://gitanimals.org" alt="동물 아바타 농장" />
+  <img src="https://render.gitanimals.org/farm/byson476" />
 </div>
