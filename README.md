@@ -2,10 +2,10 @@
 
 <div align="center">
   <!-- 1. 레벨업 트로피 배치 -->
-  <img src="https://vercel.app?username=byson476&theme=radical" />
+  <img src="https://vercel.app?byson476&theme=radical" />
   
   <br/><br/>
   
   <!-- 2. 연속 커밋 불꽃 스탯 배치 -->
-  <img src="https://herokuapp.com?user=byson476&theme=radical" />
+  <img src="https://herokuapp.com?byson476&theme=radical" />
 </div>
