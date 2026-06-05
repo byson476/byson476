@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="https://render.gitanimals.org/farm/byson476" />
+  <img src="https://render.gitanimals.org/farms/byson476" />
 </div>
