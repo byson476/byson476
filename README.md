@@ -1,7 +1,4 @@
-
-
 <div align="center">
-  <!-- 1. 레벨업 트로피 배치 -->
-  <img src="https://github-profile-trophy.vercel.app/?username=byson476&theme=radical" />
-
+  <!-- 깃허브 잔디 점수와 연동되어 자라나는 동물 아바타 농장 -->
+  <img src="https://gitanimals.org" alt="동물 아바타" />
 </div>
