@@ -3,9 +3,5 @@
 <div align="center">
   <!-- 1. 레벨업 트로피 배치 -->
   <img src="https://github-profile-trophy.vercel.app/?username=byson476&theme=radical" />
-  
-  <br/><br/>
-  
-  <!-- 2. 연속 커밋 불꽃 스탯 배치 -->
-  <img src="https://streak-stats.demolab.com/?user=byson476&theme=radical" />
+
 </div>
