@@ -7,5 +7,5 @@
   <br/><br/>
   
   <!-- 2. 연속 커밋 불꽃 스탯 배치 -->
-  <img src="https://herokuapp.com?username=byson476" />
+  <img src="https://herokuapp.com?user=byson476" />
 </div>
